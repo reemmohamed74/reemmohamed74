@@ -6,7 +6,7 @@
 <a href="mailto:reem74mohamed@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="email" height="30"/>
 </a>  
-<br><br>
+
 <a href="https://www.linkedin.com/in/reem-mohamed-81" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
 </a>
