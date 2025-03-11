@@ -4,6 +4,7 @@
 <p align="center">
   📫 Reach me at: 
   <a href="mailto:reem74mohamed@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="email" height="30"/></a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/reem-mohamed-81" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="30"/></a>
 </p>
 
@@ -54,11 +55,15 @@ ________________________________________________________________________________
 
 
 
-| Project Name          | Description                                                       | Technologies Used                                                        |
-| --------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **RNA Seq Analysis Tool** | Automated RNA sequencing analysis with integrated data visualization | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **E-commerce Website** | Developed a responsive e-commerce site with product catalog and user authentication | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Web App with Docker** | Containerized a Flask web app using Docker Compose for easy deployment | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+| Project Name                | Description                                                       | Technologies Used                                                        |
+| --------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **RNA Seq Analysis Tool**    | Automated RNA sequencing analysis with integrated data visualization | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **E-commerce Website**       | Developed a responsive e-commerce site with product catalog and user authentication | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Web App with Docker Compose & Containerization** | Containerized a Flask web app using Docker Compose for easy deployment | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+
+
 
 ___________________________________________________________________________________________________________________________________________________________
 
