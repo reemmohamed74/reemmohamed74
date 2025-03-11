@@ -45,9 +45,10 @@ ________________________________________________________________________________
 ### **Back-End Technologies:**
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Flask_logo.svg" alt="flask" width="30" height="30"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="30" height="30"/></a>
   <a href="https://www.odoo.com/" target="_blank"><img src="https://www.odoo.com/web/image/website.page/2fe717f7f9a2a8e2a9c7c25d9c6b9600.png" alt="odoo" width="30" height="30"/></a>
 </p>
+
 
 ### **Databases:**
 <p align="left">
