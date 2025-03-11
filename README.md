@@ -25,6 +25,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 
+
 ## Skills
 
 ### **Programming Languages:**
@@ -44,13 +45,14 @@ ________________________________________________________________________________
 ### **Back-End Technologies:**
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Flask_logo.svg" alt="flask" width="30" height="30"/></a>
   <a href="https://www.odoo.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_logo.svg" alt="odoo" width="30" height="30"/></a>
 </p>
 
 ### **Databases:**
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
 </p>
 
 ### **Tools:**
@@ -60,6 +62,7 @@ ________________________________________________________________________________
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>
 </p>
+
 
 
 
